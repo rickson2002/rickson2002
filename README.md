@@ -14,9 +14,11 @@
 <img align="center" alt="java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="Spring Boot" scr="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" alt="MongoDb" scr="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt="Workspace" scr="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white"/>
+<img align="center" alt="Workspace" scr="[https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white"]/>
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickson2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Apaixona por tecnologia, educação e por mudar vida das pessoas através da programação.
 
