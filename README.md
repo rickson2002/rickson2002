@@ -17,5 +17,6 @@
 <img align="center" alt="Workspace" scr="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickson2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Apaixona por tecnologia, educação e por mudar vida das pessoas através da programação.
 
