@@ -1,4 +1,4 @@
-### Olá, eu sou o Rickson um Dev de Back-End 😄
+### Olá, eu sou o Rickson um Dev de Back-End & em buscar do Font-End 😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://https://www.linkedin.com/in/rickson-souza-ferreira-7b4300204/)
